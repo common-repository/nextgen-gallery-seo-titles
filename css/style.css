@@ -1,0 +1,15 @@
+﻿/* NextGen SEO titles CSS */
+#ngg-titles p { margin-bottom: 20px; }
+#ngg-titles .option	{ padding:  0 0 10px 10px; }
+#ngg-titles .option label { display: block; width: 220px; }
+#ngg-titles .option input { float: right; }
+ul.sortable { margin: 5px 10px 0 10px; width: 200px; }
+ul.sortable li { background: #eee url('../img/move_arrows.gif') no-repeat 8px center; display: block; padding: 8px 12px 8px 20px; margin: 5px 0; position: relative; width: 100%; -moz-border-radius: 5px; -webkit-border-radius: 5px;  border-radius: 5px; }
+ul.sortable li.placeholder { background: none; border: 1px solid #e5e5e5; height: 16px; }
+ul.sortable li input { float: right; position: relative; top: 2px; }
+#permalink-structure	{ background: #fff; border: 1px solid #dfdfdf; float: left; padding: 15px 20px; width: 90%; -moz-border-radius: 2px; -webkit-border-radius: 2px;  border-radius: 2px; }
+#permalink-structure li	{ float: left; font-size: 13px; height: 26px; line-height: 26px; margin: 0; padding: 0 23px 0 10px; position: relative; white-space: nowrap; }
+#permalink-structure li input	{ float: none !important; margin-top: 4px; }
+#permalink-structure li.sortable { background: #eee url('../img/move_arrows_horizontal.gif') no-repeat 8px center; margin: 0 20px 0 15px; padding: 2px 7px 2px 20px; -moz-border-radius: 2px; -webkit-border-radius: 2px;  border-radius: 2px; }
+#permalink-structure span.separator	{ font-size: 26px; position: absolute; top: 0; right: 0; }
+#permalink-structure li.sortable span.separator { right: -25px; }
